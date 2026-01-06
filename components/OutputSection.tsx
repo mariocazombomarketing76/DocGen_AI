@@ -34,7 +34,7 @@ const OutputSection: React.FC<OutputSectionProps> = ({ generatedText, isLoading,
 
     doc.setFontSize(12);
     doc.text(lines, 10, 10);
-    doc.save('DocGen_Documento.pdf');
+    doc.save('DocuGen_Documento.pdf');
   };
 
   const renderContent = () => {

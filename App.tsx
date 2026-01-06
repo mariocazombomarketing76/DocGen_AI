@@ -31,8 +31,8 @@ const App: React.FC = () => {
       <header className="flex items-center gap-4 mb-8">
         <LogoIcon className="h-10 w-10 text-brand-blue" />
         <div>
-          <h1 className="text-2xl sm:text-3xl font-bold text-white">DocGen AI</h1>
-          <p className="text-sm text-slate-400">Gerador de Documentos com Inteligência Artificial</p>
+          <h1 className="text-2xl sm:text-3xl font-bold text-white">DocuGen</h1>
+          <p className="text-sm text-slate-400">Seu Gerador de Documentos com IA</p>
         </div>
       </header>
       

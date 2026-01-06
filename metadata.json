@@ -1,5 +1,5 @@
 {
-  "name": "DocGen AI",
+  "name": "DocuGen",
   "description": "An AI-powered document generator for creating business plans, service agreements, and commercial letters quickly and efficiently using Google's Gemini API.",
   "requestFramePermissions": []
 }
